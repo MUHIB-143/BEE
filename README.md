@@ -1,2 +1,2 @@
 # BEE
-__ Tring to be Better __
+__ Trying to be Better __
